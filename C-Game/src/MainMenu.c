@@ -7,7 +7,7 @@ int page = 0;
 int maxPage = 0;
 
 int DrawMainMenu(Camera2D playerCamera){
-  DrawText("CUBOID", 100, -150, 30, RED);
+  DrawText("CUBOID", 150, -150, 30, RED);
 
   GameButton selectLevelSelect = {
   .x = 150,
