@@ -10,4 +10,4 @@ instalation can be found on their github
 the command used to compile is
 gcc -o game main.c -I include -L lib -lraylib -lgdi32 -lwinmm
 
-anyways, have fun i suppose :)
+anyways, have fun i suppose :D
