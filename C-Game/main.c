@@ -70,7 +70,7 @@ void RessetMovablesData(){
 }
 
 int main() {
-  InitWindow(screenWidth, screenHeight, "2D Platformer");
+  InitWindow(screenWidth, screenHeight, "Cuboid");
 
   InitPlayer();
 
